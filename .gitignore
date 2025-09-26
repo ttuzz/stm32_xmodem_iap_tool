@@ -1,0 +1,53 @@
+# STM32CubeIDE build outputs
+Debug/
+Release/
+*.bin
+*.elf
+*.hex
+*.map
+*.list
+*.log
+*.o
+*.d
+*.dep
+*.exe
+*.out
+*.a
+*.pyc
+
+# IDE workspace files
+.settings/
+.metadata/
+*.launch
+*.cproject
+*.project
+
+# User-specific files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Generated files
+MX_*
+*.ioc
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Additional STM32 specific
+*.su
+*.cyclo
+*.objdump
+*.readelf
+
+# CMake (if used)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Version control
+.git/
+*.orig
