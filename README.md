@@ -33,12 +33,12 @@ STM32 mikrodenetleyicileri için XMODEM protokolü ile UART üzerinden firmware 
 ## 📱 Kullanım Kılavuzu
 
 
-### 1. Python GUI ile Firmware Yükleme
+### 1.Tera Term ile XMODEM Güncelleme  
 ![Python GUI Upload](assets/explorer_Fk79Jv0qGH.gif)
 
 Python GUI uygulaması ile `.bin` dosyasını seçip bootloader'a yükleme işlemi.
 
-### 2. Tera Term ile XMODEM Güncelleme  
+### 2.  Python GUI ile Firmware Yükleme 
 ![Tera Term XMODEM](assets/explorer_on9RyWrI7u.gif)
 
 Tera Term terminal uygulaması kullanarak XMODEM protokolü ile firmware güncelleme işlemi.
